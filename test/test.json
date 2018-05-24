@@ -1,0 +1,10 @@
+{
+  "columns": [
+    { "name": "column_1", "val_type": "UTF8", "repetition_type": "REQUIRED"},
+    { "name": "column_2", "val_type": "INT64" }
+  ],
+  "rows": [
+    [ "foo", 1 ],
+    [ "bar", 100 ]
+  ]
+}

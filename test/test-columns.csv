@@ -1,0 +1,4 @@
+name,val_type,repetition_type
+column_1,UTF8,REQUIRED
+column_2,INT64,
+column_3,BOOLEAN,
